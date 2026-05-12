@@ -64,5 +64,3 @@ Clone this repository.
 Ensure you have Power BI Desktop installed.
 
 Open the HR DASHBOARD.pbix file to interact with the visualizations.
-
-Created as part of a Data Analytics portfolio.
